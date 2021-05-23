@@ -1,6 +1,6 @@
 ## My Github Status 🦸
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" width="265"/>
 
 <!--
 **gth1ago/gth1ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
