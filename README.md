@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" width="380"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" width="350"/>
 
 <!--
 **gth1ago/gth1ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
